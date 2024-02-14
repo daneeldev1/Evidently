@@ -3,5 +3,5 @@
 # https://dvc.org/doc/user-guide/dvcignore
 
 # Add patterns of files dvc should ignore, which
-# the performance. Learn more 
+# the performance.
 # https://dvc.org/doc/user-guide/dvcignore
